@@ -33,7 +33,7 @@ The default language on first launch is **Simplified Chinese**. You can switch l
 
 ## Screenshots
 
-(Add a few screenshots of the Chinese UI here)
+Not at the moment...
 
 ---
 
